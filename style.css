@@ -1,0 +1,48 @@
+body{
+    font-family: "Open Sans", sans-serif;
+}
+
+h3{
+    font-weight: 500;
+}
+
+.first{
+    margin: 0;
+    font-size: larger;
+}
+
+.c-one{
+    padding-left: 65%;
+}
+
+.c-two{
+    padding-left: 15%;
+}
+
+.c-three{
+    text-transform:uppercase;
+    padding-left: 15%;
+    font-weight: 650;
+    margin: 0;
+}
+
+.c-four{
+    padding-right: 15%;
+    padding-left: 15%;
+}
+
+#second{
+    padding-left: 15%;
+    margin: 0;
+}
+
+table {
+    width: 900px;
+    margin-left: 15%;
+    background-color:white;
+    border-radius: 30px;
+} 
+
+body{
+    background-color: #D7FFFF;
+}
